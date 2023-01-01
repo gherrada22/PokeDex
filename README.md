@@ -5,7 +5,7 @@
 	<img src="https://veekun.com/dex/media/pokemon/global-link/1.png" height="30" width="0px"/>
 </h3>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/macchiato.png" width="400" />
+  <img src="https://user-images.githubusercontent.com/104341274/210186277-0d434bb0-80c0-43a9-b6b0-2e42e18c31a9.png" width="400" />
 </p>
 
 <p align="Center">
@@ -16,6 +16,9 @@ A web application that allows you to search for pokemon and view their correspon
 
 
 ## 📽️ Demo
+
+
+https://user-images.githubusercontent.com/104341274/210186251-9156a767-9169-49d4-80f8-943f0083959f.mp4
 
 
 
@@ -50,7 +53,7 @@ If you wish to contribute to the project, follow these steps:
 &nbsp;
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/macchiato.png" width="400" />
+  <img src="https://user-images.githubusercontent.com/104341274/210186277-0d434bb0-80c0-43a9-b6b0-2e42e18c31a9.png" width="400" />
 </p>
 </p>
 <p align="center">Copyright &copy; 2023-present <a href="https://github.com/gherrada22" target="_blank">George Herrada Farfán</a>
