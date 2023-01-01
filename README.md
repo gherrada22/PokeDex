@@ -9,7 +9,9 @@
 </p>
 
 <p align="Center">
-A web application that allows you to search for pokemon and view their corresponding information through a request to the pokemon API.
+Welcome to Pokedex, your perfect companion to discover everything about pokemon!
+Our project offers you a complete search for pokemon and their abilities, all developed with  <a href="https://es.wikipedia.org/wiki/JavaScript"><b>JavaScript</b></a>, <a href="https://es.wikipedia.org/wiki/HTML5"><b>HTML5</b></a> and <a href="https://es.wikipedia.org/wiki/CSS"><b>CSS3</b></a> programming languages.
+Don't get left behind in the pokemon world and start your adventure with Pokedex today!
 <p>
 
 &nbsp;
